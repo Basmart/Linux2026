@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
+# RUN as standar user not as sudo!
 APP_ID="com.github.IsmaelMartinez.teams_for_linux"
 FLATHUB_REPO="https://dl.flathub.org/repo/flathub.flatpakrepo"
 
